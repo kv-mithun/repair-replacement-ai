@@ -1,0 +1,8 @@
+{
+  "training_rows": 20,
+  "regression_target": "Actual_Repair_Cost (INR) from Repair History",
+  "classification_target": "Repair_Replacement_Result from sample AI Prediction records",
+  "regression_5_fold_cv_MAE_INR": 2163.24,
+  "classification_5_fold_cv_accuracy": 0.75,
+  "warning": "Only 20 synthetic demonstration records were available. Metrics are highly unstable and must not be treated as real-world performance."
+}
